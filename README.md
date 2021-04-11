@@ -1,2 +1,2 @@
-# the_learning_path_project
-Code Repository for codes used in blogs at thelearningpathproject.com
+# The Learning Path Project
+Code Repository for codes used in blogs at https://akshat2597.wixsite.com/learningpathproject
